@@ -36,7 +36,7 @@ global.socialm = "whatsapp: https://chat.whatsapp.com/HklkY7wVvcxBa0fRDZcmic" //
 global.location = "Srilanka, North Western Province, Kurunegala" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://telegra.ph/file/131a962a68e32bc70d046.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -310,7 +310,12 @@ global.rep = { // All Replies = 145
     K145: '🫡🫠🤝',
     K146: '🎤දහසක් මල්🌸 විකසිත වන😊 මේ හිමිදිරි උදෑසනේ🌄 පතන්නම් ඔබ සැමට🙏 සුභම සුභ උදෑසනක් කියා...😃',
     K147: 'ලබන්නාවූ රාත්‍රිය හීනෙන් හොල්මන් පෙනෙන, මහ රෑ දාඩියෙන් තෙමී ඇහැරෙන, පෙරේතයන් ඇද යටට එන, කුම්භාණ්ඩයින් ජනෙල් වලින් එබී බලන, භයානක රාත්‍රියක් වේවා😂👻👻❤️'
-    }
+    K148: 'Ai huththo😒',
+    K149: 'බේසිකය මොකද',
+    K150: 'තෝ තමා පොන්නයා',
+    K151: 'ගොන් බිජ්ජා',
+    K152: 'පයියක් කියනව',	
+}
 
 
 
