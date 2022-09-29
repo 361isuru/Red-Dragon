@@ -37,7 +37,7 @@ global.location = "Srilanka, North Western Province, Kurunegala" // location
 
 //bot body 
 global.alivepic = `https://telegra.ph/file/131a962a68e32bc70d046.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
-
+global.chatbot = "true" // Edit only owner "true" / "false" 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
