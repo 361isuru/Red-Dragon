@@ -32,8 +32,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94762212397'] // owner number
 global.ownername = "❤️‍🔥Isuru Madushan❤️‍🔥" // owner name
 global.ytname = "https://youtube.com/channel/UCR9ejG3A2A4baPhmKhjLikg" // yt chanel name
-global.socialm = "whatsapp: https://chat.whatsapp.com/HklkY7wVvcxBa0fRDZcmic" // github or insta name
-global.location = "Srilanka, North Western Province, Kurunegala" // location
+global.socialm = "" // github or insta name
+global.location = "" // location
 
 //bot body 
 global.alivepic = `https://telegra.ph/file/131a962a68e32bc70d046.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
